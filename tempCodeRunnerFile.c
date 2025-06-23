@@ -1,0 +1,11 @@
+printf("Enter your name\n");
+	// scanf("%s", name);
+	// printf("Enter your roll no.\n");
+	// scanf("%d", &rollno);
+	// printf("Enter marks of Subject 1\n");
+	// scanf("%d", &mark1);
+	// printf("Enter marks of Subject 2\n");
+	// scanf("%d", &mark2);
+	// printf("Enter marks of Subject 3\n");
+	// scanf("%d", &mark3);
+	// avg = (mark1 + mark2 + mark3) / 3.0;
